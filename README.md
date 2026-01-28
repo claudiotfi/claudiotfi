@@ -1,6 +1,105 @@
+<h2 align="center">🚀 Stack Técnico</h2>
 
-    <div class="max-w-6xl mx-auto py-20 px-6 reveal visible">
-      <h2 class="text-4xl font-bold mb-10 text-center">Stack Técnico</h2>
-      <div id="stack-list" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4"><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" class="w-6 h-6 md:w-12 md:h-12 text-cyan-500"><span class="font-medium text-sm">React</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next" class="w-6 h-6 md:w-12 md:h-12 dark:invert"><span class="font-medium text-sm">Next</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" class="w-6 h-6 md:w-12 md:h-12 text-green-500"><span class="font-medium text-sm">Vue</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" class="w-6 h-6 md:w-12 md:h-12 text-green-600"><span class="font-medium text-sm">Nuxt</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node" class="w-6 h-6 md:w-12 md:h-12 text-green-600"><span class="font-medium text-sm">Node</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" class="w-6 h-6 md:w-12 md:h-12 text-yellow-400"><span class="font-medium text-sm">JavaScript</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" class="w-6 h-6 md:w-12 md:h-12 text-blue-600"><span class="font-medium text-sm">TypeScript</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" class="w-6 h-6 md:w-12 md:h-12 text-indigo-500"><span class="font-medium text-sm">PHP</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" class="w-6 h-6 md:w-12 md:h-12 text-red-500"><span class="font-medium text-sm">Laravel</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" class="w-6 h-6 md:w-12 md:h-12 text-yellow-500"><span class="font-medium text-sm">Python</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" class="w-6 h-6 md:w-12 md:h-12 dark:invert"><span class="font-medium text-sm">Django</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" class="w-6 h-6 md:w-12 md:h-12 text-cyan-400"><span class="font-medium text-sm">Tailwind</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" class="w-6 h-6 md:w-12 md:h-12 text-purple-600"><span class="font-medium text-sm">Bootstrap</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" class="w-6 h-6 md:w-12 md:h-12 text-pink-500"><span class="font-medium text-sm">Sass</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" class="w-6 h-6 md:w-12 md:h-12 text-pink-500"><span class="font-medium text-sm">GraphQL</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" class="w-6 h-6 md:w-12 md:h-12 text-blue-700"><span class="font-medium text-sm">PostgreSQL</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" class="w-6 h-6 md:w-12 md:h-12 text-blue-600"><span class="font-medium text-sm">MySQL</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" class="w-6 h-6 md:w-12 md:h-12 text-blue-600"><span class="font-medium text-sm">SQLite</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" class="w-6 h-6 md:w-12 md:h-12 text-red-600"><span class="font-medium text-sm">Redis</span></div><div class="card px-5 py-2 md:py-5 bg-white dark:bg-white/10 dark:border dark:border-gray-500 rounded-xl flex flex-row md:flex-col items-center gap-3 shadow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" class="w-6 h-6 md:w-12 md:h-12 text-sky-500"><span class="font-medium text-sm">Docker</span></div></div>
-    </div>
-  
+<p align="center">
+  Tecnologias que utilizo no dia a dia para construir aplicações modernas, performáticas e escaláveis.
+</p>
+
+<br />
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
+      <br />React
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" />
+      <br />Next.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" />
+      <br />Vue.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="40" />
+      <br />Nuxt
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" />
+      <br />Node.js
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
+      <br />JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
+      <br />TypeScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" />
+      <br />PHP
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" />
+      <br />Laravel
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
+      <br />Python
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" />
+      <br />Django
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+      <br />Tailwind
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" />
+      <br />Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" />
+      <br />Sass
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" />
+      <br />GraphQL
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" />
+      <br />PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
+      <br />MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" />
+      <br />SQLite
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" />
+      <br />Redis
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
+      <br />Docker
+    </td>
+  </tr>
+</table>
+
+</div>
