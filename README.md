@@ -1,6 +1,4 @@
-<div align="center" style="font-size:32px; font-weight:700; margin-bottom:24px;">
-  Stack Técnico
-</div>
+<p align="center"><strong>Stack Técnico</strong></p>
 
 <br />
 
