@@ -1,4 +1,10 @@
-<h2 align="center">Stack Técnico</h2>
+<div align="center" style="font-size:32px; font-weight:700; margin-bottom:24px;">
+  Stack Técnico
+</div>
+
+<br />
+
+<div align="center">
 
 <table>
   <tr>
@@ -93,3 +99,5 @@
     </td>
   </tr>
 </table>
+
+</div>
