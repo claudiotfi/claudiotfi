@@ -1,10 +1,4 @@
-<h2 align="center">🚀 Stack Técnico</h2>
-
-<p align="center">
-  Tecnologias que utilizo no dia a dia para construir aplicações modernas, performáticas e escaláveis.
-</p>
-
-<br />
+<h2 align="center">Stack Técnico</h2>
 
 <div align="center">
 
