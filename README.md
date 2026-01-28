@@ -1,7 +1,5 @@
 <h2 align="center">Stack Técnico</h2>
 
-<div align="center">
-
 <table>
   <tr>
     <td align="center" width="120">
@@ -95,5 +93,3 @@
     </td>
   </tr>
 </table>
-
-</div>
